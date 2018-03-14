@@ -1,0 +1,41 @@
+body {
+   background: url(../images/circles-light.png);
+   text-align: left;
+   margin: 0px;
+   font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-seri;
+}
+#header {
+    color:white;
+    width: 100%;
+    height: 100px;
+    background: #ffffff;
+    border-bottom: #cccccc solid 1px;
+
+}
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    width: 275px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px; 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    margin-top: 0;
+    margin-left: 200px;
+}
+#nav {
+    margin-left: 700px;
+    line-height: 100px;
+}
+#nav li {
+    list-style-type: none;
+}
+#nav li a {
+    color: #cccccc;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 20px; 
+    float: left;
+    
+}
