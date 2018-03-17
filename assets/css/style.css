@@ -120,7 +120,6 @@ input {
     height: 30px;
     border: 1px solid #cccccc;
     
-
 }
 
 textarea#message {
@@ -129,4 +128,88 @@ textarea#message {
     display: block;
 }
 
+.images {
+    float: left;
+    position: relative;
+    
+}
+#img1 {
+    width: 200px; 
+    height: 150px; 
+    margin: 65px;  
+    position: relative;
 
+}
+#img2 {
+    width: 200px; 
+    height: 150px;
+    margin: 65px;
+    position: relative;
+}
+
+#img3 {
+    width: 200px; 
+    height: 150px;
+    margin: 65px; 
+    position: relative;
+
+}
+#img4 {
+    width: 200px; 
+    height: 150px;
+    margin: 65px;
+    position: relative; 
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white; 
+    position: relative; 
+
+}
+
+#banner1 {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    bottom: 175px; 
+    width: 180px;
+    left: 265px;
+    padding: 10px;
+
+}
+
+#banner2 {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    bottom: 175px; 
+    width: 180px;
+    left: 599px;
+    padding: 10px;
+}
+
+#banner3 {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    bottom: -110px; 
+    width: 180px;
+    left: 265px;
+    padding: 10px;
+
+}
+#banner4 {
+    position: absolute;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    bottom: -110px; 
+    width: 180px;
+    left: 599px;
+    padding: 10px;
+
+}
